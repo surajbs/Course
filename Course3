@@ -4,8 +4,16 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
+As above mentioned Modules are not yet started, FEB 2022 batch we are still EDA Hence, I will choosing NumPy and PANDAS
+4) NumPy and PANDAS
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Suraj BS
+Informational -  have to be simple so best not be not complex. So it is simple and informational.
+Statistical -  frame of reference to the topics are good.
+Self Reflective - I found it myself very simple and easily explained or it’s simple, its actionable and its peritonitis
+I guess the above mentioned points are more than enough to explain on NumPy and PANDAS.
+
+what I learned from NumPy and PANDAS:
+1. Arrays, NumPy arrays, Indexing, slicing.
+2. Data Frame, Rows and Columns, Pivot Tables, merging and appending Dataframes and all operations of Dataframes.
